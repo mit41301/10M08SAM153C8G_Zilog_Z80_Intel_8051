@@ -26,6 +26,6 @@ https://opencores.org/projects/tv80
 Hutchison, Guy  
 M. Harte, Howard  
 
-https://github.com/hutch31/tv80/tree/master
-https://github.com/freecores/tv80
+https://github.com/hutch31/tv80/tree/master  
+https://github.com/freecores/tv80  
 
