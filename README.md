@@ -51,6 +51,9 @@ Instant-on at power-up
 3.3V power supply  
 2 PLLs  
 
+<img width="1019" height="368" alt="image" src="https://github.com/user-attachments/assets/b4fbfbd0-2038-4cdd-816a-152fcf5a81de" />
+
+
 ## Pin definition
 <img width="600" height="582" alt="image" src="https://github.com/user-attachments/assets/02009855-41d2-4ed1-81bf-5eba6e8e38e4" />
 
