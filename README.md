@@ -1,6 +1,10 @@
 ## STEPFPGA MAX10
 <img width="640" height="286" alt="image" src="https://github.com/user-attachments/assets/f4e0cbdf-3f78-4b05-9332-bc0082558ae7" />
 
+https://github.com/Edragon/fpga_max10
+
+https://github.com/Edragon/FPGA_MAX10-1
+
 https://github.com/stepfpga/STEP-MAX10
 
 ## Pin definition
