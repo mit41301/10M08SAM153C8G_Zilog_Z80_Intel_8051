@@ -1,5 +1,5 @@
 ## STEPFPGA MAX10
-<img width="640" height="286" alt="image" src="https://github.com/user-attachments/assets/f4e0cbdf-3f78-4b05-9332-bc0082558ae7" />
+<img width="788" height="460" alt="image" src="https://github.com/user-attachments/assets/994c176e-eeb9-469e-a7dd-bf082ed44a43" />
 
 https://github.com/Edragon/fpga_max10
 
